@@ -14,7 +14,7 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/souhayla-ghanem" target="_blank">
+  <a href="https://www.linkedin.com/in/souhayla-ghanem-28791b306/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
     <a href="souhaghanem5@gmail.com" target="_blank">
